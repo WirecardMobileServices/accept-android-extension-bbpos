@@ -4,7 +4,7 @@ group='com.github.mposSVK'
 version='release'
 
 artifacts {
-  archives new File('accept-sdk-android-bbposextension-release.aar')
+  archives new File('accept-sdk-android-extension-bbpos-release.aar')
 }
 
 uploadArchives {

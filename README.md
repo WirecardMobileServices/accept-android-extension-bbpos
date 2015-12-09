@@ -6,8 +6,7 @@
 The library enables terminal extension for acceptSDK-Android solution. 
 
 Supported devices:
-  * [PosMate] (http://www.spirepayments.com/product/posmate/ "PosMate")
-  * [SPm2] (http://www.spirepayments.com/product/spm2/ "SPm2")
+  * BBPOS [uEMV Swiper - Chipper] (http://bbpos.com/files/Chipper.pdf "Chipper")
  
 ## Installation
 There are two ways how to install the SDK.
