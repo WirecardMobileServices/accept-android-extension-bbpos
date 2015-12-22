@@ -19,7 +19,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.mposSVK:accept-android-extension-bbpos:1.4.8'
+	compile 'com.github.mposSVK:accept-android-extension-bbpos:1.4.9'
 }
 ```
 
