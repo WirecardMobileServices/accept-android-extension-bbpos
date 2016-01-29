@@ -7,6 +7,7 @@ The library enables terminal extension for acceptSDK-Android solution.
 
 Supported devices:
   * BBPOS [uEMV Swiper - Chipper] (http://bbpos.com/files/Chipper.pdf "Chipper")
+  
  
 ## Installation
 There are two ways how to install the SDK.
@@ -19,7 +20,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.mposSVK:accept-android-extension-bbpos:v1.4.9'
+	compile 'com.github.mposSVK:accept-android-extension-bbpos:1.4.10'
 }
 ```
 
@@ -38,10 +39,3 @@ See [acceptSDK-Android] (https://github.com/mposSVK/acceptSDK-Android "acceptSDK
 
    Wirecard Technologies Slovakia,  mpos-svk@wirecard.com 
    
-   marek.humenik, marek.humenik@wirecard.com
-   
-   patrik.misencik, patrik.misencik@wirecard.com
-   
-   marek.richter, marek.richter@wirecard.com
-   
-   damian.kolakowski, damian.kolakowski@partner.wirecard.com
