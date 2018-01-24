@@ -1,6 +1,6 @@
 # accept-android-extension-bbpos
 
-<img src="https://raw.githubusercontent.com/mposSVK/acceptSDK/master/docs/logo.png" alt="acceptSDK" width=240 height=95>
+<img src="https://raw.githubusercontent.com/WirecardMobileServices/acceptSDK/master/docs/logo.png" alt="acceptSDK" width=240 height=95>
 
 ## Overview
 The library enables terminal extension for acceptSDK-Android solution. 
@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-	compile 'com.github.mposSVK:accept-android-extension-bbpos:1.6.1'
+	compile 'com.github.WirecardMobileServices:accept-android-extension-bbpos:1.6.1'
 }
 ```
 
