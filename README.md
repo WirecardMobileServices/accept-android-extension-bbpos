@@ -35,6 +35,7 @@ SDK|Spire extension|BBPos extension|
 1.5.10|1.5.9|1.5.4|
 1.6.0|1.6.0|1.6.0|
 1.6.1|1.6.0|1.6.1|
+1.6.1|1.6.1|1.6.1|
 
 ## Contact
 Get in touch with [acceptSDK development team](mailto://mpos-svk@wirecard.com "acceptSDK") for acceptSDK support and mPOS Whitelabel solution
